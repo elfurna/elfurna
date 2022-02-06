@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dani (@elfurna)
 - 👀 I’m interested in techonology, sports (I love climbing) and board games (specially roleplaying games)
-- 🌱 I’m currently learning SCRUM and how to use Github for my personal purposes.
+- 🌱 I’m currently learning LUA and how to use Github for my personal purposes.
 - 📫 You can reach me at twitter (@elfurna)
 
 <!---
